@@ -1,0 +1,11 @@
+
+# Created by https://www.gitignore.io/api/text,python
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+X_test.npy
+X_train.npy
+Y_test_onehot.npy
+Y_train_onehot.npy
+Y_test.npy
+Y_train.npy
